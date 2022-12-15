@@ -1,2 +1,6 @@
 Humanos são estranhos
+<<<<<<< Updated upstream
 klklklklklk
+=======
+reamente 
+>>>>>>> Stashed changes
